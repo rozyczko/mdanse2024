@@ -1,0 +1,10 @@
+INCAR created by Atomic Simulation Environment
+ ENCUT = 500.000000
+ EDIFF = 1.00e-07
+ EDIFFG = -1.00e-04
+ GGA = PE
+ PREC = Accurate
+ IBRION = 1
+ ISIF = 3
+ NSW = 300
+ LWAVE = .FALSE.
