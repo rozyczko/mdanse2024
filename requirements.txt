@@ -3,3 +3,4 @@ matplotlib
 ase
 phonopy
 nglview
+jupyter
